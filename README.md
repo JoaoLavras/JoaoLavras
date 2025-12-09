@@ -1,16 +1,21 @@
-## Hi there 👋
+## Seja bem vindo! 👋
 
-<!--
-**JoaoLavras/JoaoLavras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo João, sou um programador web em processo de aprendizado no Brasil. 
 
-Here are some ideas to get you started:
+Atualmente sou estudante de Ciência da Computação na UESPI (Universidade Estadual do Piauí) e durante o meu processo de aprendizado já passei por diversas stacks. Meu foco atual está em desenvolver cada dia mais habilidades de **desenvolvimento web**, para futuramente migrar para área de **pentest**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 **Linguagens Experimentadas** = Java, Python, C++, Ruby \
+🧪 **Frameworks Experimentadss** = Spring Boot, FastAPI, Rails
+
+---
+### Linguagens & Stacks
+* HTML, CSS
+* Javascript
+* Design: Canva
+---
+### Sobre mim
+* Banda favorita: Link Park
+* Calor me deixa desnorteado
+* Gosto de construir coisas simples
+
+_Você pode entrar comigo nas redes fixadas no perfil! Tmj 💪_
