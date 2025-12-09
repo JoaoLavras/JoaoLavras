@@ -18,4 +18,4 @@ Atualmente sou estudante de Ciência da Computação na UESPI (Universidade Esta
 * Calor me deixa desnorteado
 * Gosto de construir coisas simples
 
-_Você pode entrar comigo nas redes fixadas no perfil! Tmj 💪_
+_Você pode entrar em contato nas redes fixadas no perfil! Tmj 💪_
