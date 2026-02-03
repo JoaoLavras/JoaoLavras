@@ -11,6 +11,7 @@ Atualmente sou estudante de Ciência da Computação na UESPI (Universidade Esta
 ### Linguagens & Stacks
 * HTML, CSS
 * Javascript
+* NodeJS
 ---
 ### Sobre mim
 * Banda favorita: Link Park
